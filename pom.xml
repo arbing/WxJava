@@ -112,7 +112,8 @@
     <module>weixin-java-miniapp</module>
     <module>weixin-java-open</module>
     <module>spring-boot-starters</module>
-    <!--module>weixin-java-osgi</module-->
+    <module>weixin-java-wwopen</module>
+      <!--module>weixin-java-osgi</module-->
   </modules>
 
   <properties>
